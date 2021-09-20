@@ -1,0 +1,16 @@
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..exe
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..deps.json
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..runtimeconfig.json
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..runtimeconfig.dev.json
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..dll
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\ref\HerançaM..dll
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\bin\Debug\net5.0\HerançaM..pdb
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..AssemblyInfoInputs.cache
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..AssemblyInfo.cs
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..dll
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\ref\HerançaM..dll
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..pdb
+C:\Users\viviane.santos3\source\repos\HerançaM\HerançaM\obj\Debug\net5.0\HerançaM..genruntimeconfig.cache
