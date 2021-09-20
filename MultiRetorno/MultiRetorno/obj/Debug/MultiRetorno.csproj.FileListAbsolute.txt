@@ -1,0 +1,11 @@
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\bin\Debug\MultiRetorno.exe.config
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\bin\Debug\MultiRetorno.exe
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\bin\Debug\MultiRetorno.pdb
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.Exec03.resources
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.Form1.resources
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.Properties.Resources.resources
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.csproj.GenerateResource.cache
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.exe
+C:\Users\viviane.santos3\source\repos\MultiRetorno\MultiRetorno\obj\Debug\MultiRetorno.pdb
